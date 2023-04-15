@@ -5,7 +5,7 @@ In this simple project we do several things.
 2. Model training
 3. Model testing
 
-![preview](https://github.com/SeyedJavadMajidi/FaceDetection/blob/main/preview.jpg)
+![preview](https://github.com/SeyedJavadMajidi/FaceDetection/preview.png)
 
 Please share your comments with me
 thank you
